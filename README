@@ -1,0 +1,4 @@
+1 - Make sure Maven 3 is installed
+2 - In the project directory, run:
+    ./run.sh
+
