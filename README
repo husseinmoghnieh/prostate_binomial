@@ -2,3 +2,8 @@
 2 - In the project directory, run:
     ./run.sh
 
+
+3- The prediction results produced by PredictMain.java using downloaded POJO models should be the same as the prediction
+    exported in R in ./tmp
+
+
